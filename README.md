@@ -169,6 +169,12 @@ If you find this work useful, please cite:
 
 ---
 
+## Acknowledgements
+
+Our implementation is built on top of [**verl-agent**](https://github.com/langfengq/verl-agent), an excellent framework for training LLM agents with reinforcement learning. We thank the verl-agent team for their outstanding open-source contribution.
+
+---
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
