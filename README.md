@@ -42,8 +42,12 @@ In our GiGPO reproduction on ALFWorld, **34.2%** of clusters are singletons at i
 BiPACE makes two local replacements to the GiGPO step-level estimator, requiring **no critic, no auxiliary loss, and no extra rollouts**:
 
 <p align="center">
-  <img src="assets/method_overview.png" alt="BiPACE Method Overview" width="90%">
+  <a href="assets/method_overview.pdf">
+    <img src="https://img.shields.io/badge/Figure-Method%20Overview%20(PDF)-blue?logo=adobeacrobatreader" alt="Method Overview PDF">
+  </a>
 </p>
+
+> 📌 **Figure: BiPACE Method Overview** — [Click to view PDF](assets/method_overview.pdf)
 
 **BiGPO (Bisimulation-Guided Policy Optimization)**
 - Replaces observation hashing with cosine clustering on the actor's own hidden states at a fixed late layer
