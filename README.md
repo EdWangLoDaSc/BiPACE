@@ -42,7 +42,7 @@ In our GiGPO reproduction on ALFWorld, **34.2%** of clusters are singletons at i
 BiPACE makes two local replacements to the GiGPO step-level estimator, requiring **no critic, no auxiliary loss, and no extra rollouts**:
 
 <p align="center">
-  <img src="assets/method_overview.png" alt="BiPACE Method Overview" width="90%">
+  <img src="assets/method.png" alt="BiPACE Method Overview" width="90%">
 </p>
 
 **BiGPO (Bisimulation-Guided Policy Optimization)**
